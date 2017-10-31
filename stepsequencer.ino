@@ -1,3 +1,4 @@
+//this is a test comment for lecture assignment 8
 int buttonPin[4] = {33, 34, 35, 36};
 int ledPin[4] = {2, 3, 4, 5};
 boolean lastButtonState[4] = {LOW, LOW, LOW, LOW};
